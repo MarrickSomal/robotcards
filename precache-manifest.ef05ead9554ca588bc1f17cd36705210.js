@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe58581ef3636abdc12a9c63f31bed1a",
+    "revision": "9cd7e647241ab28048ebf3fe35624783",
     "url": "/robotcards/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robotcards/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "0eae8a8249933d9d82b6",
-    "url": "/robotcards/static/css/main.12525fc0.chunk.css"
+    "revision": "4701975518b2ae6eff61",
+    "url": "/robotcards/static/css/main.34a85a25.chunk.css"
   },
   {
     "revision": "1495b50450f70d2f71c5",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robotcards/static/js/2.53ec2793.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0eae8a8249933d9d82b6",
-    "url": "/robotcards/static/js/main.84832639.chunk.js"
+    "revision": "4701975518b2ae6eff61",
+    "url": "/robotcards/static/js/main.5a9cad29.chunk.js"
   },
   {
     "revision": "ba2c9cb44bd4bed27b1c",

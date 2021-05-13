@@ -1,10 +1,18 @@
 import React, { Component } from 'react';
-import CardList from '../components/CardList';
-import SearchBox from '../components/SearchBox';
-import Scroll from '../components/Scroll';
-import ErrorBoundary from '../components/ErrorBoundary';
+import CardList from './CardList';
+import SearchBox from './SearchBox';
+import Scroll from './Scroll';
+import ErrorBoundary from './ErrorBoundary';
+import { Robot } from '../containers/App'
 
-class MainPage extends Component {
+interface AppProps {
+  robots: Array<Robot>;
+  searchField: string;
+  searchChange: any;
+}
+
+
+class MainPage extends Component<AppProps, {}> {
 
   filterRobots = () => {
     const { robots, searchField } = this.props;

@@ -1,7 +1,8 @@
 import React from 'react';
 import Card from './Card';
+import { Robot } from '../containers/App'
 
-const CardList = ({ robots }) => {
+const CardList = ({ robots }: {robots: Array<Robot>}) => {
   return (
     <div>
       {
